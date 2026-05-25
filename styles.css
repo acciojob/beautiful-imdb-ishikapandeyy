@@ -1,2 +1,27 @@
-
+div{
+	background-color:#273030;
+	height:18cm;
+	border:20px solid #8f8c8c;
+}
 /* Your CSS Code here. */
+img {
+    height: 300px;
+    width: 200px;
+	display: block;
+    margin: auto;
+    opacity: 1;   
+}
+
+p {
+    position: relative;
+    font-size: 20px;
+    width: 500px;
+    text-align: center;
+    top: 10px;
+    margin: auto;
+	color:white;
+}
+h3,h1{
+	color:white;
+	text-align:center;
+}
